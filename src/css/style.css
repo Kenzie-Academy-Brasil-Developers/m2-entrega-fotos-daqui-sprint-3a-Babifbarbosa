@@ -1,0 +1,29 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:blueviolet;
+    height: 250px;
+}
+header form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   padding: 25px;
+}
+header input{
+    width: 350px;
+}
+
+.divcabecalho{
+    background-color:cornsilk;
+    height: 100px;
+    width: 800px;
+}
+figure {
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+}
+
